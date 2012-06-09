@@ -10,3 +10,7 @@
 *.lai
 *.la
 *.a
+/http_serv/nbproject/private/
+/http_serv/build/Debug/
+/http_serv/dist/Debug/
+/http_serv/build/Release/
